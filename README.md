@@ -1,4 +1,4 @@
-                                    Weclome to the URL shortner 
+                  Weclome to the URL shortner 
 
                                     
                                     this repo is to help me exand my knowledge of Go. By 
